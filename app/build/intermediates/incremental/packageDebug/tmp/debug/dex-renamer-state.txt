@@ -1,0 +1,7 @@
+#Fri Dec 24 16:48:59 IST 2021
+base.1=/home/spartacus/AndroidStudioProjects/Dogglers/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex
+path.1=classes.dex
+base.0=/home/spartacus/AndroidStudioProjects/Dogglers/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
